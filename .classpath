@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="C:/Users/91801/Downloads/ojdbc6-11.2.0.4 (1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
